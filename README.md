@@ -87,7 +87,7 @@ I have a strong understanding of **backend architecture and DevOps practices**, 
 
 ---
 
-### stats
+## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=bbodda123&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
