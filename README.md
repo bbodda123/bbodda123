@@ -28,10 +28,10 @@ I have a strong understanding of **backend architecture and DevOps practices**, 
 
 💡 My expertise lies in:
 
+- 🛠 **DevOps & Cloud** – Bash scripting, Virtual Machines, AWS EC2, Docker, CI/CD (Jenkins & GitHub Actions), Infrastructure as Code , Ansible
 - 🎨 **Front-End Development** – HTML, CSS, JavaScript, Bootstrap, React  
 - ⚙️ **Backend Development** – Node.js, Express.js, NestJS  
 - 📊 **Database Design & Optimization** – PostgreSQL, MySQL, MongoDB  
-- 🛠 **DevOps & Cloud** – Bash scripting, Virtual Machines, AWS EC2, Docker, CI/CD (Jenkins & GitHub Actions), Infrastructure as Code , Ansible
 
 <br clear="right"/>
 
